@@ -1,0 +1,9 @@
+country_name,population,female_fraction,male_life_expectancy,female_life_expectancy,birth_rate,death_rate
+Austria,8917000,0.5077,78.9,83.6,9.4,10.3
+Belgium,11544000,0.5059,78.6,83.1,9.9,11.0
+France,67380000,0.5167,79.2,85.3,10.9,9.9
+Germany,83161000,0.5066,78.6,83.4,9.3,11.9
+Portugal,10297000,0.5282,78.0,84.1,8.2,12.0
+Serbia,6899000,0.5207,71.4,77.2,8.9,16.9
+Slovenia,2102000,0.4973,77.8,83.4,8.9,11.4
+Spain,47363000,0.5099,79.7,85.1,7.1,10.4

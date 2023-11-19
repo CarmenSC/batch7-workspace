@@ -1,0 +1,2 @@
+nbgrader==0.8.4            # base, latest 0.8.4, requires notebook 6.5.5, ipython 8.15.0, jupyter-client 7.4.9
+numpy==1.22.4              # base, latest 1.22.4
